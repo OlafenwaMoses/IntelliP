@@ -1,0 +1,12 @@
+animals
+sea animals
+birds
+objects
+electronics
+dresses
+foods
+plants
+aircrafts
+places
+vehicles
+people
