@@ -1,8 +1,5 @@
 # IntelliP
 IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently organizes the  pictures in your computer into 12 unique and related categories.
-
-
-<h1><b>IntelliP</b></h1>
 <hr>
 <div style="font-family: Calibri;" ><br> <span>
         It works by scanning through
@@ -13,11 +10,11 @@ IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently orga
         , that enables applications and systems built with Python to have self-contained image prediction
          capabilities. <br> <br>You can download the IntelliP Windows installer via this <b><a href="">link</a></b>. <br><br></span>
     <br><img src="four.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
-    <img src="five.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
-    <img src="six.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
-     <img src="one.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
-    <img src="two.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
-    <img src="three.jpg" style="width: 300px; height: auto; margin-right: 20px;" /><br>
+    <img src="five.jpg" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="six.jpg" style="width: 200px; height: auto; margin-right: 20px;" />
+     <img src="one.jpg" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="two.jpg" style="width: 200px; height: auto; margin-right: 20px;" />
+    <img src="three.jpg" style="width: 200px; height: auto; margin-right: 20px;" /><br>
 <h3><b>Dependencies</b></h3>
 <hr>
 IntelliP was built using Python 3.5, Kivy (Python UI framework) and <b><a href="" style="text-decoration: none;" >ImageAI</a></b>. The ResNet model is the computer vision model used to power the image prediction. <br>The entire source code and resources used in building the <b>IntelliP</b> application is included in  this repository. The source code have the following dependencies: <br>
