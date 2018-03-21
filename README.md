@@ -6,7 +6,7 @@ IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently orga
         the pictures in your Windows download folder, documents folder, desktop folder, videos folder, pictures
          folder and it's subfolders. It obtains the pictures and run a self-contained <b>Intelligence Module</b> prediction
           on each picture and store the pictures in their respective categories. The <b>Intelligence Module</b>
-           is made possible by the <b><a href="" style="text-decoration: none;" >ImageAI</a></b> library
+           is made possible by the <b><a href="https://github.com/OlafenwaMoses/ImageAI" style="text-decoration: none;" >ImageAI</a></b> library
         , that enables applications and systems built with Python to have self-contained image prediction
          capabilities. <br> <br>You can download the IntelliP Windows installer via this <b><a href="">link</a></b>. <br><br></span>
     <br><img src="four.jpg" style="width: 300px; height: auto; margin-right: 20px;" />
@@ -17,7 +17,7 @@ IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently orga
     <img src="three.jpg" style="width: 200px; height: auto; margin-right: 20px;" /><br>
 <h3><b>Dependencies</b></h3>
 <hr>
-IntelliP was built using Python 3.5, Kivy (Python UI framework) and <b><a href="" style="text-decoration: none;" >ImageAI</a></b>. The ResNet model is the computer vision model used to power the image prediction. <br>The entire source code and resources used in building the <b>IntelliP</b> application is included in  this repository. The source code have the following dependencies: <br>
+IntelliP was built using Python 3.5, Kivy (Python UI framework) and <b><a href="https://github.com/OlafenwaMoses/ImageAI" style="text-decoration: none;" >ImageAI</a></b>. The ResNet model is the computer vision model used to power the image prediction. <br>The entire source code and resources used in building the <b>IntelliP</b> application is included in  this repository. The source code have the following dependencies: <br>
  <span><b>- Python 3.5  </b></span> <br> 
           <span><b>- Tensorflow 1.4.0 </b></span><br>
           <span><b>- Numpy 1.14.2 </b> </span> <br>
@@ -25,11 +25,11 @@ IntelliP was built using Python 3.5, Kivy (Python UI framework) and <b><a href="
           <span><b>- ImageAI 1.0.1 </b></span> <br>
           <span><b>- Kivy 1.10.0 </b></span> <br>
           <span><b>- Kivy Glew 0.1.9 </b></span> <br>
-          <span><b>- Kivy SDL2 0.1.17 </b></span> <br> <br> <span>In addition to the files contained in this repository, follow this <a href="">link</a></span> to 
+          <span><b>- Kivy SDL2 0.1.17 </b></span> <br> <br> <span>In addition to the files contained in this repository, follow this <a href="https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5">link</a></span> to 
 download the ResNet model used in the Intelligence Module. <br> <br>
 <h3><b>Contact Developers</b></h3>
 <hr>
-This application was built to demonstrate the potentials contained in the <b><a href="" style="text-decoration: none;" >ImageAI</a></b>
+This application was built to demonstrate the potentials contained in the <b><a href="https://github.com/OlafenwaMoses/ImageAI" style="text-decoration: none;" >ImageAI</a></b>
  python library for application and systems developements. You can reach to us via our contacts below:
  <br><br>
   <b>Moses Olafenwa</b> <br>
