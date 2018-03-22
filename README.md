@@ -8,7 +8,7 @@ IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently orga
           on each picture and store the pictures in their respective categories. The <b>Intelligence Module</b>
            is made possible by the <b><a href="https://github.com/OlafenwaMoses/ImageAI" style="text-decoration: none;" >ImageAI</a></b> library
         , that enables applications and systems built with Python to have self-contained image prediction
-         capabilities. <br> <br>You can download the IntelliP Windows installer via this <b><a href="">link</a></b>. <br><br></span>
+         capabilities. <br> <br>You can download the IntelliP Windows installer via this <b><a href="https://github.com/OlafenwaMoses/IntelliP/releases/download/v1/IntelliP.Installer.exe">link</a></b>. <br><br></span>
     <br>
      <img src="one.jpg" style="width: 200px; height: auto; margin-right: 20px;" />
     
