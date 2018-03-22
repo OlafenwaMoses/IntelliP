@@ -1,7 +1,7 @@
 # IntelliP
 IntelliP (Intelligent Photos) is a Windows photo gallery that intelligently organizes the  pictures in your computer into 12 unique and related categories.
 <hr>
-<div style="font-family: Calibri;" ><br> <span>
+<div style="font-family: Calibri;" ><br><span>
         It works by scanning through
         the pictures in your Windows download folder, documents folder, desktop folder, videos folder, pictures
          folder and it's subfolders. It obtains the pictures and run a self-contained <b>Intelligence Module</b> prediction
